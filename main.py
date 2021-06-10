@@ -2,7 +2,7 @@ import requests
 import json
 import csv
 
-TOKEN = "SCXbnAgPMbDBTbbzUfCZ2RA7D7qQ4rnaQuqqECNP"
+TOKEN = ""
 BASE_URL = "https://kolayik.com/api/v2/"
 person_list = []
 
